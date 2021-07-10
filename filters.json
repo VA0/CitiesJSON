@@ -1,0 +1,24 @@
+{
+  "filters": [
+    {
+      "path": "/area",
+      "op": "gt",
+      "value": 100
+    },
+    {
+      "path": "/population",
+      "op": "in",
+      "value": [40000, 700000]
+    },
+    {
+      "path": "/recreations/parks",
+      "op": "lt",
+      "value": 5
+    },
+    {
+      "path": "/voivodeship",
+      "op": "re",
+      "value": "^p.*&$"
+    }
+  ]
+}

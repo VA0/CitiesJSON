@@ -1,0 +1,187 @@
+{
+	"cities": [{
+			"city": "Białystok",
+			"country": "Białystok",
+			"voivodeship": "podlaskie",
+			"area": 102.13,
+			"population": 297288,
+			"population_density": 2911
+		},
+		{
+			"city": "Brusy",
+			"country": "chojnicki",
+			"voivodeship": "pomorskie",
+			"area": 5.2,
+			"population": 5209,
+			"population_density": 1002
+		},
+		{
+			"city": "Busko Zdrój",
+			"country": "buski",
+			"voivodeship": "świętokrzyskie",
+			"area": 6.69,
+			"population": 4976,
+			"population_density": 744
+		},
+		{
+			"city": "Bydgoszcz",
+			"country": "Bydgoszcz",
+			"voivodeship": "kujawsko-pomorskie",
+			"area": 175.98,
+			"population": 352313.1,
+			"population_density": 2002
+		},
+		{
+			"city": "Chorzów",
+			"country": "Chorzów",
+			"voivodeship": "śląskie",
+			"area": 33.24,
+			"population": 109021,
+			"population_density": 3280
+		},
+		{
+			"city": "Dębica",
+			"country": "dębicki",
+			"voivodeship": "podkarpackie",
+			"area": 33.83,
+			"population": 46063,
+			"population_density": 1362
+		},
+		{
+			"city": "Gdańsk",
+			"country": "Gdańsk",
+			"voivodeship": "pomorskie",
+			"area": 261.96,
+			"population": 464254,
+			"population_density": 1772
+		},
+		{
+			"city": "Hel",
+			"country": "pucki",
+			"voivodeship": "pomorskie",
+			"area": 22.95,
+			"population": 3373,
+			"population_density": 147
+		},
+		{
+			"city": "Iława",
+			"country": "iławski",
+			"voivodeship": "warmińsko-mazurski",
+			"area": 21.88,
+			"population": 33132,
+			"population_density": 1514
+		},
+		{
+			"city": "Jasień",
+			"country": "żarski",
+			"voivodeship": "lubuskie",
+			"area": 36.52,
+			"population": 35445,
+			"population_density": 908
+		},
+		{
+			"city": "Katowice",
+			"country": "Katowice",
+			"voivodeship": "śląskie",
+			"area": 164.64,
+			"population": 296262,
+			"population_density": 1799
+		},
+		{
+			"city": "Kielce",
+			"country": "Kielce",
+			"voivodeship": "świętokrzyskie",
+			"area": 109.65,
+			"population": 196804,
+			"population_density": 1795
+		},
+		{
+			"city": "Kraków",
+			"country": "Kraków",
+			"voivodeship": "małopolskie",
+			"area": 326.85,
+			"population": 767348,
+			"population_density": 2348
+		},
+		{
+			"city": "lublin",
+			"country": "Lublin",
+			"voivodeship": "lubelskie",
+			"area": 147.47,
+			"population": 339850,
+			"population_density": 2305
+		},
+		{
+			"city": "Łódź",
+			"country": "Łódź",
+			"voivodeship": "łódzkie",
+			"area": 293.25,
+			"population": 690442,
+			"population_density": 2354
+		},
+		{
+			"city": "Olsztyn",
+			"country": "Olsztyn",
+			"voivodeship": "warmińsko-mazurskie",
+			"area": 293.25,
+			"population": 690442,
+			"population_density": 2354
+		},
+		{
+			"city": "Poznań",
+			"country": "Poznań",
+			"voivodeship": "wielkopolskie",
+			"area": 261.91,
+			"population": 538633,
+			"population_density": 2057
+		},
+		{
+			"city": "Szczecin",
+			"country": "Szczecin",
+			"voivodeship": "zachodniopomorskie",
+			"area": 300.60,
+			"population": 403883,
+			"population_density": 1344
+		},
+		{
+			"city": "Toruń",
+			"country": "Toruń",
+			"voivodeship": "kujawsko-pomorskie",
+			"area": 115.72,
+			"population": 202562,
+			"population_density": 1750
+		},
+		{
+			"city": "Ustka",
+			"country": "słupski",
+			"voivodeship": "pomorskie",
+			"area": 10.19,
+			"population": 15709,
+			"population_density": 1542
+		},
+		{
+			"city": "Ustroń",
+			"country": "cieszyński",
+			"voivodeship": "śląskie",
+			"area": 59.03,
+			"population": 16108,
+			"population_density": 273
+		},
+		{
+			"city": "Warszawa",
+			"country": "m.st.Warszawa",
+			"voivodeship": "mazowieckie",
+			"area": 517.24,
+			"population": 1764615,
+			"population_density": 3412
+		},
+		{
+			"city": "wrocław",
+			"country": "Wrocław",
+			"voivodeship": "dolnośląskie",
+			"area": -292.82,
+			"population": 638586,
+			"population_density": 2181
+		}
+	]
+}
